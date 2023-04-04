@@ -1,0 +1,24 @@
+{
+  "name": "laravel-insta",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "description": "```\r - PHP:  7.4.22 \r - Nginx: 1.18.0\r - Mysql: 8.0.26\r ```",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kredoIT/project-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kredoIT/project-setup/issues"
+  },
+  "homepage": "https://github.com/kredoIT/project-setup#readme"
+}
